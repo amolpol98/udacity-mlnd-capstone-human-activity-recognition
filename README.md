@@ -32,4 +32,4 @@ Using Deep Leraning model - RNN (LSTM), I am getting accuracy ~ 92%.
 
 ### Project Report
 
-Report can be viewed at [**https://amolpol98.github.io/udacity-mlnd-capstone-human-activity-recognition/**](https://amolpol98.github.io/udacity-mlnd-capstone-human-activity-recognition/).
+Report can be viewed at [**https://amolpol98.github.io/udacity_mlnd_capstone_human_activity_recognition/**](https://amolpol98.github.io/udacity_mlnd_capstone_human_activity_recognition/).
